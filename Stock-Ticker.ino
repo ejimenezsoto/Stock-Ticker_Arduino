@@ -1,8 +1,5 @@
 /*******************************************************************
- *  An example of usisng the InstagramStats library to get
- *  info on a given user.
- *
- *  Written by Brian Lough and updated by Adrian Pecker
+ *  Written by Brian Lough and updated by Enzo Jimenez-Soto
  *  https://www.youtube.com/channel/UCezJOfu7OtqGzd5xrP3q6WA
  *******************************************************************/
 
